@@ -5,7 +5,7 @@ Q: Can you explain the CICD process in your current project ? or Can you talk ab
 A: In the current project we use the following tools orchestrated with Jenkins to achieve CICD.
    - Maven, Sonar, AppScan, ArgoCD, and Kubernetes
    
-   Coming to the implementation, the entire process takes place in 8 steps
+   Coming to the implementation, The entire process takes place in 8 steps
     
     1. Code Commit: Developers commit code changes to a Git repository hosted on GitHub.
     2. Jenkins Build: Jenkins is triggered to build the code using Maven. Maven builds the code and runs unit tests.
