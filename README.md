@@ -87,7 +87,7 @@ Jenkins supports multiple build agents, which can be used to run build jobs on d
 
 For example, you can use one agent for compiling Java code and another agent for building a Node.js application. The agents can be configured to use different operating systems, different versions of programming languages, and different libraries and tools.
 
-Jenkins also provides a wide range of plugins that can be used to support multiple programming languages and build tools, making it easy to integrate different parts of the build process and manage the dependencies required for each stage.
+Jenkins also provides a wide range of plugins that can be used to support multiple programming languages and Build tools, making it easy to integrate different parts of the build process and manage the dependencies required for each stage.
 
 Overall, Jenkins is a flexible and powerful tool that can be used to build applications with multiple programming languages and support different stages of the build process.
 
