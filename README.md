@@ -31,7 +31,7 @@ A: This can be done in multiple ways,
      - Webhooks: A webhook can be created in GitHub to notify Jenkins when changes are pushed to the repository. 
                  Jenkins can then automatically build the updated code. This can be set up in the "Build Triggers" section of a job and in the GitHub repository settings.
    ```
-Q: How to backup Jenkins ?
+Q: How to Backup Jenkins ?
 
 A: Backing up Jenkins is a very easy process, there are multiple default and configured files and folders in Jenkins that you might want to backup.
 ```  
