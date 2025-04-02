@@ -33,7 +33,7 @@ A: This can be done in multiple ways,
    ```
 Q: How to Backup Jenkins ?
 
-A: Backing up Jenkins is a very easy process, there are multiple default and configured files and folders in Jenkins that you might want to backup.
+A: Backing up Jenkins is a very easy process, There are multiple default and configured files and folders in Jenkins that you might want to backup.
 ```  
   - Configuration: The `~/.jenkins` folder. You can use a tool like rsync to backup the entire directory to another location.
   
